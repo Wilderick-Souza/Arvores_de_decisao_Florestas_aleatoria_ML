@@ -2,7 +2,6 @@
 ## Descrição
  * Projeto de **MACHINE LEARNING** utilizando o modelo de Árvore de Decisão e Florestas Aleatórias
  * Análise exploratória de dados (EDA).
- * Padronização dos dados.
  * Previsões e avaliações.
 
 
